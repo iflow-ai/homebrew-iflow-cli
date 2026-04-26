@@ -1,8 +1,8 @@
 class IflowCli < Formula
   desc "AI-powered CLI that embeds in your terminal for coding tasks and workflow automation"
   homepage "https://platform.iflow.cn"
-  url "https://registry.npmjs.org/@iflow-ai/iflow-cli/-/iflow-cli-0.5.18.tgz"
-  sha256 "0ba6d9d7a1e0ee99facc26fad6324d65487dc792a3490838a061a7a8c8326a55"
+  url "https://registry.npmjs.org/@iflow-ai/iflow-cli/-/iflow-cli-0.5.19.tgz"
+  sha256 "4ac4ec1d6e52362c5794bb07213886bafb554d4036752b8af8c8ca08462ab365"
 
   depends_on "node@22"
 
